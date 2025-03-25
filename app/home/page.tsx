@@ -1059,7 +1059,7 @@ function HomePage() {
                     </div>
                     <div className="flex items-center space-x-3 text-slate-300 hover:text-secondary transition-colors">
                       <Phone className="h-5 w-5" />
-                      <span>06 69 08 17 14</span>
+                      <span>06 69 08 17 04</span>
                     </div>
                   </div>
                   <div className="flex items-center space-x-3 text-slate-300 hover:text-secondary transition-colors">
